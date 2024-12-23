@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvrmzxR/m6o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emir\\Desktop\\20Project\\Project2_EntityFrameworkDbFirstProduct\\Project7_ApiWeatherConsume\\Project7_ApiWeatherConsume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emir\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
